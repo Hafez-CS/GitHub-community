@@ -1,5 +1,7 @@
 # GitHub Community Discussions
 
+![Monty Python](https://github.blog/wp-content/uploads/2020/12/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
+
 In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
 ## Product Feedback
